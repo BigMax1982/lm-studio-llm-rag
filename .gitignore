@@ -31,9 +31,6 @@ ENV/
 # Vector index (generated)
 wcag_index/
 
-# PDF files (can be large)
-*.pdf
-
 # IDE
 .vscode/
 .idea/
