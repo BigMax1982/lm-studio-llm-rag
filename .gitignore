@@ -28,9 +28,6 @@ wheels/
 venv/
 ENV/
 
-# Vector index (generated)
-wcag_index/
-
 # IDE
 .vscode/
 .idea/
